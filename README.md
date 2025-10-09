@@ -24,9 +24,7 @@
         <div align="left">
           <h3>🏆 Key Highlights</h3>
           <ul>
-            <li>🥇 <strong>Winner of BlitzBuzz</strong> tech event</li>
-            <li>📄 Published research on <strong>"Blockchain's Role in Advancing Green Solutions"</strong></li>
-            <li>💡 Love building <strong>full-stack applications</strong> that solve real-world problems</li>
+            <li>💡 Love building <strong>Java applications</strong> that solve real-world problems</li>
             <li>🚀 <strong>2 Professional Internships</strong> completed</li>
             <li>🎯 Consistent problem solver with <strong>algorithmic expertise</strong></li>
           </ul>
@@ -209,39 +207,14 @@ graph TD
 
 ---
 
-## 💼 Professional Experience
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-### 🏢 Titan Company Limited - Full Stack Development Intern
-**Duration:** November 2024  
-- 🔐 Developed secure Dealer Management System
-- 🛡️ Implemented encrypted authentication with bcrypt
-- 📧 Built automated email credential delivery system
-- 📊 Created incident tracking features for operational efficiency
-
-### 💻 Frenzo Technologies - Python & Web Development Intern  
-**Duration:** July 2024 - August 2024  
-- 🐍 Built dynamic web applications using Django
-- 🔄 Contributed to full-stack development with HTML, CSS, JavaScript
-- 👥 Participated in team-based development and module integration
-
----
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
 
 | 🎯 Achievement | 📝 Description |
 |---------------|----------------|
-| 🧩 **700+ LeetCode Problems** | Strengthened algorithmic and problem-solving skills |
-| 🔥 **100-Day LeetCode Streak** | Consistent daily practice and improvement |
-| 🥇 **BlitzBuzz Winner** | First place in tech event showcasing creativity |
-| 📄 **Research Paper** | "Blockchain's Role in Advancing Green Solutions" |
-| 🎓 **AWS Cloud Computing** | NPTEL Certification |
-| ⚡ **Prompt Engineering** | Advanced AI interaction techniques |
+| 🧩 **100+ LeetCode Problems** | Strengthened algorithmic and problem-solving skills |
+| 🔥 **50-Day LeetCode Streak** | Consistent daily practice and improvement |
 
 </div>
 
