@@ -59,11 +59,11 @@
 
 <div align="center">
   
-# 🌟 ARIVUSELVAM'S TECH UNIVERSE 🌟
+# 🌟 Madhan'S TECH UNIVERSE 🌟
 ```mermaid
 
 graph TD
-    A[🌟 ARIVUSELVAM'S TECH UNIVERSE 🌟]
+    A[🌟 Madhan'S TECH UNIVERSE 🌟]
 
     %% Main Branches
     A --> B[🧠 Problem Solving<br>100+ LeetCode]
