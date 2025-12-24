@@ -159,18 +159,18 @@ graph TD
 <div align="center">
   <table>
     <tr>
-      <th colspan="2">🧮 Calculator</th>
+      <th colspan="2">🚀 Career Compass – AI Career Guidance Platform</th>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/MADHAN21105/Calculator">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MADHAN21105&repo=Calculator&theme=radical&border_radius=10&border_color=FF6B6B" />
+        <a href="https://github.com/MADHAN21105/Career-Campass">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MADHAN21105&repo=Career-Campass&theme=radical&border_radius=10&border_color=FF6B6B" />
         </a>
       </td>
       <td align="left" width="50%">
-        <strong>Tech Stack:</strong> Java • AWT • Swing<br><br>
-        <strong>Features:</strong> GUI-based calculator for basic arithmetic operations<br><br>
-        <strong>Impact:</strong> Simple and intuitive app showcasing Java GUI development skills
+        <strong>Tech Stack:</strong> Java • RAG • Pinecone • Flowise • LLMs<br><br>
+        <strong>Features:</strong> AI-driven career recommendations, semantic search, resume & JD analysis<br><br>
+        <strong>Impact:</strong> Helps users identify skill gaps and receive personalized career guidance
       </td>
     </tr>
   </table>
@@ -182,17 +182,17 @@ graph TD
 <div align="center">
   <table>
     <tr>
-      <th colspan="2">🎧 Spotify Streaming Insights Dashboard</th>
+      <th colspan="2">🎓 EduCampus – Student Grade & Attendance Management</th>
     </tr>
     <tr>
       <td align="left" width="50%">
-        <strong>Tech Stack:</strong> Power BI • SQL • Data Visualization<br><br>
-        <strong>Features:</strong> Streaming trends, artist performance, user engagement analysis<br><br>
-        <strong>Impact:</strong> Enables data-driven decisions for music and marketing insights
+        <strong>Tech Stack:</strong> Java • Hibernate (JPA) • MySQL • OOP<br><br>
+        <strong>Features:</strong> Student profiles, subject & semester-wise marks, attendance tracking, GPA/CGPA calculation<br><br>
+        <strong>Impact:</strong> Streamlines academic record management with automated performance evaluation
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/MADHAN21105/Spotify-Streaming-Insights-Dashboard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MADHAN21105&repo=Spotify-Streaming-Insights-Dashboard&theme=radical&border_radius=10&border_color=FF6B6B" />
+        <a href="https://github.com/MADHAN21105/student-grade-management-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MADHAN21105&repo=student-grade-management-system&theme=radical&border_radius=10&border_color=FF6B6B" />
         </a>
       </td>
     </tr>
@@ -205,22 +205,23 @@ graph TD
 <div align="center">
   <table>
     <tr>
-      <th colspan="2">🏠 Airbnb Data Analytics Dashboard</th>
+      <th colspan="2">💼 Employee Salary Processor API</th>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/MADHAN21105/airbnb-data-analytics-dashboard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MADHAN21105&repo=airbnb-data-analytics-dashboard&theme=radical&border_radius=10&border_color=FF6B6B" />
+        <a href="https://github.com/MADHAN21105/emp_java_spring">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MADHAN21105&repo=emp_java_spring&theme=radical&border_radius=10&border_color=FF6B6B" />
         </a>
       </td>
       <td align="left" width="50%">
-        <strong>Tech Stack:</strong> Power BI • Excel • SQL<br><br>
-        <strong>Features:</strong> Market insights, pricing analysis, host performance tracking<br><br>
-        <strong>Impact:</strong> Helps optimize Airbnb listings and understand travel patterns
+        <strong>Tech Stack:</strong> Java • Spring Boot • REST API • Maven<br><br>
+        <strong>Features:</strong> Employee management, salary processing, analytics (highest & average salary)<br><br>
+        <strong>Impact:</strong> Demonstrates clean backend architecture and RESTful API design
       </td>
     </tr>
   </table>
 </div>
+
 
 <br>
 
