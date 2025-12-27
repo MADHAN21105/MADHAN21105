@@ -182,7 +182,7 @@ graph TD
 <div align="center">
   <table>
     <tr>
-      <th colspan="2">🎓 EduCampus – Student Grade & Attendance Management</th>
+      <th colspan="2">🎓  EduCampus - Student Management System</th>
     </tr>
     <tr>
       <td align="left" width="50%">
@@ -191,7 +191,7 @@ graph TD
         <strong>Impact:</strong> Streamlines academic record management with automated performance evaluation
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/MADHAN21105/student-grade-management-system">
+        <a href="https://github.com/MADHAN21105/EduCampus-Student-Management-System/tree/main">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=MADHAN21105&repo=student-grade-management-system&theme=radical&border_radius=10&border_color=FF6B6B" />
         </a>
       </td>
