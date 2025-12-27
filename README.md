@@ -155,7 +155,7 @@ graph TD
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/MADHAN21105/Career-Campass">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MADHAN21105&repo=Career-Campass&theme=radical&border_radius=10&border_color=FF6B6B" />
+          <img src="career campus profile .png" />
         </a>
       </td>
       <td align="left" width="50%">
@@ -183,7 +183,7 @@ graph TD
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/MADHAN21105/EduCampus-Student-Management-System/tree/main">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MADHAN21105&repo=student-grade-management-system&theme=radical&border_radius=10&border_color=FF6B6B" />
+          <img src="Educampuss proflie.png" />
         </a>
       </td>
     </tr>
@@ -201,7 +201,7 @@ graph TD
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/MADHAN21105/emp_java_spring">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MADHAN21105&repo=emp_java_spring&theme=radical&border_radius=10&border_color=FF6B6B" />
+          <img src="emp profile .png" />
         </a>
       </td>
       <td align="left" width="50%">
