@@ -114,18 +114,12 @@ graph TD
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=📈+GitHub+Analytics+%26+Stats+📈;🔥+Madhan's+Coding+Journey+🔥" alt="Stats Animation" />
-</div>
 
 <br>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MADHAN21105&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&border_color=FF6B6B"/>
-      </td>
       <td align="center">
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADHAN21105&layout=compact&langs_count=8&theme=radical&border_radius=10&border_color=FF6B6B"/>
       </td>
@@ -135,14 +129,11 @@ graph TD
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MADHAN21105&theme=radical&no-frame=false&no-bg=false&margin-w=4&border_color=FF6B6B&title=committer,repository,stars,experience" />
-</div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MADHAN21105&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=MADHAN21105&limit=10&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </div>
 
 ---
