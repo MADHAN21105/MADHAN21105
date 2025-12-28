@@ -112,29 +112,6 @@ graph TD
 
 </div>
 
-## 📊 GitHub Stats & Activity
-
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADHAN21105&layout=compact&langs_count=8&theme=radical&border_radius=10&border_color=FF6B6B"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-
-<br>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MADHAN21105&limit=10&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
-</div>
 
 ---
 
@@ -217,6 +194,32 @@ graph TD
 <br>
 
 ---
+
+</div>
+
+## 📊 GitHub Stats & Activity
+
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADHAN21105&layout=compact&langs_count=8&theme=radical&border_radius=10&border_color=FF6B6B"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+
+<br>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MADHAN21105&limit=10&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+</div>
 
 ## 🏆 Achievements & Certifications
 
